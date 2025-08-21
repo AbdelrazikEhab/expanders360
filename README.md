@@ -6,6 +6,8 @@ A hiring-quest implementation using **NestJS + MySQL (TypeORM) + MongoDB (Mongoo
 
 ```bash
 # 1) Clone and enter
+npm install reflect-metadata@0.1.14
+
 npm i
 # 2) Prepare env
 cp  .env
